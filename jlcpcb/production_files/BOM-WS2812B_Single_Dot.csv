@@ -1,0 +1,4 @@
+Comment,Designator,Footprint,LCSC
+WS2812B,D1,LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm,C2843785
+Conn_01x03_Female,J1,PinHeader_1x03_P2.54mm_Horizontal,
+Conn_01x03_Female,J2,PinHeader_1x03_P2.54mm_Horizontal,
